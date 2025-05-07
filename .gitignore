@@ -1,0 +1,67 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java/Kotlin build output
+/build/
+*/build/
+
+# Local configuration files (e.g. IDEs)
+.idea/
+.gradle/
+local.properties
+*.iml
+
+# Keystore files
+*.jks
+
+# Crashlytics / Firebase
+crashlytics.properties
+firebase/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Generated files
+/captures/
+/output-metadata.json
+
+# Jetpack Compose preview cache
+/.android/
+/.idea/
+.cxx/
+
+# Gradle
+/gradle/
+
+# Log files
+*.log
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# IntelliJ / Android Studio
+*.iws
+*.ipr
+
+# Kotlin specific
+*.kotlin_module
+
+# Compose compiler cache
+.kotlinc/
+
+# VSCode (if you ever open it there)
+.vscode/
+
+# Misc
+*.swp
+*.swo
+*.tmp
+
+# Node / npm if you use any web previews
+node_modules/
