@@ -53,6 +53,7 @@ dependencies {
     implementation(libs.androidx.gridlayout)
     implementation(libs.lottie.compose)
     implementation(libs.androidx.ui.text.google.fonts) // Optional if using Google Fonts via code
+    implementation(libs.androidx.splashscreen)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- Main app theme -->
     <style name="Theme.UnitConverter" parent="android:Theme.Material.Light.NoActionBar" />
+
 </resources>
