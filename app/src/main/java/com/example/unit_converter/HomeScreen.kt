@@ -23,6 +23,7 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.*
 import kotlinx.coroutines.delay
+import com.rabbittownsoftware.convertly.R
 
 /**
  * Home screen for the Unit Converter app.

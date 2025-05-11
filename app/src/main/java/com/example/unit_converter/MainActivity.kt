@@ -18,6 +18,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import kotlinx.coroutines.delay
+import com.rabbittownsoftware.convertly.R
 
 /**
  * Main entry point of the Unit Converter app.
