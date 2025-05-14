@@ -1,4 +1,4 @@
-package com.example.unit_converter
+package convertly.convertly.convertly
 
 import org.junit.Test
 

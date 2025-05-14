@@ -1,4 +1,4 @@
-package com.example.unit_converter
+package com.rabbittownsoftware.convertly
 
 import android.annotation.SuppressLint
 import android.widget.Toast
@@ -65,7 +65,6 @@ import androidx.compose.ui.unit.TextUnit
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.Dialog
-import com.rabbittownsoftware.convertly.R
 
 
 /**

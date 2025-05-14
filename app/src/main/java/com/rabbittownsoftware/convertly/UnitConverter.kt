@@ -1,4 +1,4 @@
-package com.example.unit_converter
+package com.rabbittownsoftware.convertly
 
 /**
  * Singleton object that handles all unit conversion logic and definitions.

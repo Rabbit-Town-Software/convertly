@@ -1,4 +1,4 @@
-package com.example.unit_converter
+package convertly.convertly.convertly
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

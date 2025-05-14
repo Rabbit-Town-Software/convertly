@@ -1,11 +1,11 @@
-package com.example.unit_converter
+package com.rabbittownsoftware.convertly
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.material3.Surface
 import androidx.compose.ui.graphics.Color
-import com.example.unit_converter.ui.theme.UnitConverterTheme
+import com.rabbittownsoftware.convertly.theme.UnitConverterTheme
 
 /**
  * Activity for handling unit conversions.

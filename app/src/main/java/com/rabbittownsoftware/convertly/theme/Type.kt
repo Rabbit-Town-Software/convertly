@@ -1,4 +1,4 @@
-package com.example.unit_converter.ui.theme
+package com.rabbittownsoftware.convertly.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
