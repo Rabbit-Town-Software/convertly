@@ -3,9 +3,6 @@
 
 # Convertly
 
-<!-- Small app icon near the title (optional) -->
-![Convertly Icon](https://raw.githubusercontent.com/rabbit-town-software/convertly/master/assets/icon.png)
-
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-pending-lightgrey.svg)
 ![Open Issues](https://img.shields.io/github/issues/rabbit-town-software/convertly.svg)
