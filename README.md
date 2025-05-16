@@ -1,10 +1,10 @@
 <!-- Banner Image at the top, full width -->
-![Convertly Banner](assets/banner.png)
+![Convertly Banner](assets/banner.jpg)
 
 # Convertly
 
 <!-- Small app icon near the title (optional) -->
-![Convertly Icon](assets.icon.png)  
+![Convertly Icon](assets.icon.jpg)  
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-pending-lightgrey.svg)
