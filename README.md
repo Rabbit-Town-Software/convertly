@@ -1,10 +1,10 @@
 <!-- Banner Image at the top, full width -->
-![Convertly Banner](assets/banner.jpg)
+![Convertly Icon](https://raw.githubusercontent.com/rabbit-town-software/convertly/master/assets/banner.jpg)
 
 # Convertly
 
 <!-- Small app icon near the title (optional) -->
-![Convertly Icon](assets.icon.jpg)  
+![Convertly Icon](https://raw.githubusercontent.com/rabbit-town-software/convertly/master/assets/icon.png)
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-pending-lightgrey.svg)
@@ -13,9 +13,6 @@
 ![Code size](https://img.shields.io/github/languages/code-size/rabbit-town-software/convertly)
 ![Contributors](https://img.shields.io/github/contributors/rabbit-town-software/convertly)
 ![Language](https://img.shields.io/github/languages/top/rabbit-town-software/convertly)
-
-...
-
 
 A sleek, ad-free unit converter app that respects your time and privacy.
 
