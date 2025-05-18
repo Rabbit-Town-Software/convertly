@@ -1,60 +1,84 @@
 <!-- Banner Image at the top, full width -->
-![Convertly Icon](https://raw.githubusercontent.com/rabbit-town-software/convertly/master/assets/banner.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rabbit-town-software/convertly/master/assets/banner.jpg" alt="Convertly Banner"/>
+</p>
 
-# Convertly
+<h1 align="center">Convertly</h1>
+<p align="center"><em>A sleek, ad-free unit converter that respects your time and privacy</em></p>
 
-![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
-![Build Status](https://img.shields.io/badge/build-pending-lightgrey.svg)
-![Open Issues](https://img.shields.io/github/issues/rabbit-town-software/convertly.svg)
-![Last Commit](https://img.shields.io/github/last-commit/rabbit-town-software/convertly)
-![Code size](https://img.shields.io/github/languages/code-size/rabbit-town-software/convertly)
-![Contributors](https://img.shields.io/github/contributors/rabbit-town-software/convertly)
-![Language](https://img.shields.io/github/languages/top/rabbit-town-software/convertly)
-
-A sleek, ad-free unit converter app that respects your time and privacy.
+<p align="center">
+  <img src="https://img.shields.io/badge/License-GPLv3-blue.svg">
+  <img src="https://img.shields.io/badge/build-pending-lightgrey.svg">
+  <img src="https://img.shields.io/github/issues/rabbit-town-software/convertly.svg">
+  <img src="https://img.shields.io/github/last-commit/rabbit-town-software/convertly">
+  <img src="https://img.shields.io/github/languages/code-size/rabbit-town-software/convertly">
+  <img src="https://img.shields.io/github/languages/top/rabbit-town-software/convertly">
+  <img src="https://img.shields.io/github/contributors/rabbit-town-software/convertly">
+</p>
 
 ---
 
 ## About Convertly
 
-Convertly is a fast and minimal unit converter built for simplicity and speed. It covers all the major categories — length, weight, temperature, and more — all wrapped in a clean, distraction-free interface. No ads, no trackers, just quick conversions right on your device.
+**Convertly** is a fast and minimal unit converter built for simplicity and speed. It covers all the major categories — length, weight, temperature, and more — all wrapped in a clean, distraction-free interface. No ads, no trackers, just quick conversions right on your device.
 
 ---
 
 ## Features
 
-- Clean, ad-free interface  
-- Real-time conversion updates  
-- Support for both metric and imperial units  
-- 100% offline — no data collection or internet required  
-- Lightweight and responsive design  
+- ⚡ Clean, ad-free interface  
+- 🔄 Real-time conversion updates  
+- 📏 Support for metric and imperial units  
+- 📴 100% offline — no data collection or internet required  
+- 🪶 Lightweight and responsive design  
 
 ---
 
 ## Privacy Policy
 
-Convertly does **not** collect, store, or transmit any user data. All conversions are done locally on your device. The app has no analytics, tracking, or advertising libraries. Your privacy is fully respected.
+Convertly does **not** collect, store, or transmit any user data.  
+All conversions are performed **locally on your device**.  
+The app includes no analytics, no tracking libraries, and no advertising SDKs.  
+Your privacy is fully respected — always.
 
 ---
 
 ## License
 
-Convertly is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. You are free to use, modify, and distribute the app, as long as any modifications you make remain under the same license.
+Convertly is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
+You are free to use, modify, and distribute the app, as long as any modifications remain under the same license.
 
-- ✔️ Free and open-source  
-- ✔️ No ads or tracking  
-- ✔️ Commercial use allowed  
-- ❗ Modifications must remain GPL-3.0  
+- ✔️ Commercial use allowed
+- ✔️ Modifications allowed
+- ✔️ Distribution allowed
+- ❗ Derivative works must also be GPL-3.0 licensed
 
 ---
 
 ## Testing Status
 
-Convertly is currently in closed testing on Google Play. I’m looking for 12 testers to help finalize the app before public release. If you're interested, please reach out!
+Convertly is currently in closed testing on Google Play.  
+We’re looking for a few early testers to help finalize the app before public release.  
+If you're interested, feel free to reach out!
 
 ---
 
 ## Contact
 
-Questions or feedback?  
-Email: support@rabbittownsoftware.com
+Questions, suggestions, or feedback?  
+📫 Email: [support@rabbittownsoftware.com](mailto:support@rabbittownsoftware.com)
+
+---
+
+## 🐇 Rabbit Town Software
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/Rabbit-Town-Software/misa-engine/blob/eb3aa63bad02385d2af4b7b130d1bde70e2a2715/assets/rabbittownlogo.jpg?raw=true" alt="Rabbit Town Software Logo" width="180"/>
+</p>
+
+<p align="center">
+  <strong>Rabbit Town Software</strong><br/>
+  Open-source. No compromise.
+</p>
