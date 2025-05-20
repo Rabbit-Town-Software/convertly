@@ -145,7 +145,7 @@ fun ConversionScreen(category: String)
                             else
                             {
                                 val res = UnitConverter.convert(category, value, fromUnit, toUnit)
-                                val formatted = String.format("%.5f", res)
+                                val formatted = String.format("%.2f", res)
                                 val fromAbbr = UnitConverter.getAbbreviation(fromUnit)
                                 val toAbbr = UnitConverter.getAbbreviation(toUnit)
                                 "$value $fromAbbr = $formatted $toAbbr"
@@ -234,7 +234,7 @@ fun ConversionScreen(category: String)
                     else
                     {
                         val res = UnitConverter.convert(category, value, fromUnit, toUnit)
-                        val formatted = String.format("%.5f", res)
+                        val formatted = String.format("%.2f", res)
                         val fromAbbr = UnitConverter.getAbbreviation(fromUnit)
                         val toAbbr = UnitConverter.getAbbreviation(toUnit)
                         "$value $fromAbbr = $formatted $toAbbr"
