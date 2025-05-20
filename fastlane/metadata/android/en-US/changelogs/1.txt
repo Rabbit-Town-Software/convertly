@@ -1,1 +1,5 @@
-
+Initial release of Convertly:
+• Supports conversions for length, weight, temperature, and more
+• Clean, ad-free UI
+• Works 100% offline with no tracking or data collection
+• Fully open-source under GPL-3.0 license
