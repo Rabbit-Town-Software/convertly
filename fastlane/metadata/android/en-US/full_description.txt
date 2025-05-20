@@ -1,0 +1,23 @@
+Convertly is a fast and minimal unit converter built with simplicity and privacy in mind. It supports a wide range of categories including length, weight, temperature, volume, speed, and more — all wrapped in a clean, distraction-free interface.
+
+Designed to be lightweight, responsive, and entirely offline, Convertly gets out of your way and lets you convert units quickly, without ads, trackers, or unnecessary clutter. Whether you're a student, traveler, or just someone who hates bloated apps, Convertly is made for you.
+
+Key Features:
+• Clean, ad-free interface
+• Real-time conversion updates
+• Supports metric and imperial units
+• 100% offline — no data collected
+• Lightweight and responsive design
+
+Privacy Policy:
+Convertly does not collect, store, or transmit any user data. All conversions happen locally on your device. There are no analytics, tracking, or advertising libraries included. Your usage stays completely private.
+
+License:
+Convertly is released under the GNU General Public License v3.0 (GPL-3.0). This means you are free to use, modify, and distribute the app — as long as any changes remain under the same license.
+
+✔️ Free and open-source  
+✔️ No ads or tracking  
+✔️ Commercial use allowed  
+❗ Modifications must remain GPL-3.0
+
+Questions or feedback? Reach out to: support@rabbittownsoftware.com
