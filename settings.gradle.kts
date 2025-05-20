@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Unit-Converter"
+rootProject.name = "Convertly"
 include(":app")
  
