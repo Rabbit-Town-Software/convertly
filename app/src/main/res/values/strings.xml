@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Unit-Converter</string>
+    <string name="app_name">Convertly</string>
     <string name="convert">Convert</string>
     <string name="hint_enter_value">Enter value</string>
     <string name="default_result">Result will appear here</string>
