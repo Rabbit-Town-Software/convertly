@@ -44,6 +44,11 @@ android {
     composeOptions {
         kotlinCompilerExtensionVersion = "1.5.11"
     }
+
+    dependenciesInfo {
+        includeInApk = false
+        includeInBundle = false
+    }
 }
 
 dependencies {
