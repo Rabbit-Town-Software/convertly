@@ -34,6 +34,16 @@
 
 ---
 
+## Download
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
+     alt="Get it on F-Droid"
+     height="80">](https://f-droid.org/packages/com.rabbittownsoftware.convertly/)
+
+Or download the latest APK from the [Releases Section](https://github.com/Rabbit-Town-Software/convertly/releases/latest).
+
+---
+
 ## Privacy Policy
 
 Convertly does **not** collect, store, or transmit any user data.  
