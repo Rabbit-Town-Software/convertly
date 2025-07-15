@@ -50,7 +50,8 @@ object UnitConverter
             UnitDefinition("Meters/Second", "m/s", 1.0),
             UnitDefinition("Kilometers/Hour", "km/h", 0.277778),
             UnitDefinition("Miles/Hour", "mph", 0.44704),
-            UnitDefinition("Feet/Second", "ft/s", 0.3048)
+            UnitDefinition("Feet/Second", "ft/s", 0.3048),
+            UnitDefinition("Knots", "kn, kt", 0.514444)
         ),
         "Time" to listOf(
             UnitDefinition("Seconds", "s", 1.0),
