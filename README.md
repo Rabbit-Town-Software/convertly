@@ -1,7 +1,7 @@
 <!-- Banner Image at the top, full width -->
 
 <h1 align="center">Convertly</h1>
-<p align="center"><em>A simple and easy to use unit converter. Downloadable for free on F-Droid!</em></p>
+<p align="center"><em>A simple and easy to use unit converter. Downloadable for free on F-Droid and OpenApk!</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg">
