@@ -32,6 +32,10 @@ It is wrapped in a clean, distraction-free interface. No ads, no trackers, just 
      alt="Get it on F-Droid"
      height="80">](https://f-droid.org/packages/com.rabbittownsoftware.convertly/)
 
+[<img src="https://www.openapk.net/images/openapk-badge.png" 
+     alt="Get it on OpenApk"
+     height="80">](https://www.openapk.net/convertly/com.rabbittownsoftware.convertly/apk/download)
+
 Or download the latest APK from the [Releases Section](https://github.com/Rabbit-Town-Software/convertly/releases/latest).
 
 ---
